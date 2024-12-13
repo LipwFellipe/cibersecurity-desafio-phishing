@@ -23,7 +23,7 @@
 ### Atenção
 Hoje em dia o site do Facebook não permite que ataques como Phishing aconteçam, para fazer o phishing basta salvar o arquivo ```html``` da pagina desejada, e usar o `Custom import` ao invés do `Site Cloner`.
 
-## Criando um RandomWare com Python
+## Criando um RansomWare com Python
 
 - Estes são simples scripts de Python para criptografar e descriptografar arquivos usando a 
 biblioteca `pyaes`.
@@ -44,10 +44,7 @@ descriptografia para descriptografar os dados, remove o arquivo criptografado e 
 ### Contribuição
 
 - Se quiser contribuir para o projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests.
-
-### Licença
-
-- Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+<img src="https://media.tenor.com/1MfQk9vFF7MAAAAM/anime-bye-bye-maki.gif">
 
 
 
